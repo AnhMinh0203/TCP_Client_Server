@@ -1,0 +1,17 @@
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\bin\Debug\net5.0-windows\TCP_Client_Server.exe
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\bin\Debug\net5.0-windows\TCP_Client_Server.deps.json
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\bin\Debug\net5.0-windows\TCP_Client_Server.runtimeconfig.json
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\bin\Debug\net5.0-windows\TCP_Client_Server.runtimeconfig.dev.json
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\bin\Debug\net5.0-windows\TCP_Client_Server.dll
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\bin\Debug\net5.0-windows\TCP_Client_Server.pdb
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\obj\Debug\net5.0-windows\TCP_Client_Server.Form1.resources
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\obj\Debug\net5.0-windows\TCP_Client_Server.csproj.GenerateResource.cache
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\obj\Debug\net5.0-windows\TCP_Client_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\obj\Debug\net5.0-windows\TCP_Client_Server.AssemblyInfoInputs.cache
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\obj\Debug\net5.0-windows\TCP_Client_Server.AssemblyInfo.cs
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\obj\Debug\net5.0-windows\TCP_Client_Server.csproj.CoreCompileInputs.cache
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\obj\Debug\net5.0-windows\TCP_Client_Server.dll
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\obj\Debug\net5.0-windows\refint\TCP_Client_Server.dll
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\obj\Debug\net5.0-windows\TCP_Client_Server.pdb
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\obj\Debug\net5.0-windows\TCP_Client_Server.genruntimeconfig.cache
+D:\Workspace\ATBMTT0805\TCPClient\TCP_Client_Server\obj\Debug\net5.0-windows\ref\TCP_Client_Server.dll
